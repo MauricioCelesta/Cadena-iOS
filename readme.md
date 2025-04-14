@@ -16,7 +16,7 @@ El sitio está organizado en cuatro páginas:
 - **Accesibilidad**: HTML semántico, atributos ARIA y un orden lógico de navegación para VoiceOver.
 - **Diseño visual**: Fuente legible, alto contraste y espaciado amplio para usuarios con restos visuales.
 - **Navegación intuitiva**: Menú claro en todas las páginas.
-- **Contacto**: Enlaces a Twitter, WhatsApp y GitHub para reportar errores o sugerir contenido.
+- **Contacto**: Enlaces a Twitter y GitHub para reportar errores o sugerir contenido.
 
 ## Instrucciones de Uso
 1. Abre `index.html` en un navegador web para explorar el sitio.
@@ -25,7 +25,4 @@ El sitio está organizado en cuatro páginas:
 4. Haz clic en los enlaces para descargar aplicaciones, juegos o atajos desde la App Store o iCloud.
 
 ## Instalación
-No se requieren dependencias. Para usar el sitio localmente:
-```bash
-git clone https://github.com/MauricioCelesta/accesibilidad-voiceover.git
-cd accesibilidad-voiceover
+No se requieren dependencias. 

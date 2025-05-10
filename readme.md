@@ -6,17 +6,18 @@ Este proyecto es un sitio web que recopila aplicaciones, juegos y atajos compati
 Desarrollado por Mauricio Pedroza Garza, este proyecto refleja un esfuerzo por promover la inclusión tecnológica.
 
 ## Estructura del Sitio
-El sitio está organizado en cuatro páginas:
-- **Inicio**: Presenta el propósito del proyecto y da la bienvenida a los usuarios.
-- **Aplicaciones**: Lista aplicaciones accesibles, como Voice Dream Reader, Seeing AI y Clubhouse, con detalles y enlaces a la App Store.
-- **Juegos**: Incluye juegos compatibles con VoiceOver, como Space Wave Race, Tres en línea y Swordy Quest, con descripciones y precios.
-- **Atajos**: Detalla atajos de Siri, como "Traducir", con instrucciones para su uso.
+El sitio está organizado en 5 páginas:
+- **[Inicio](https://mauriciocelesta.github.io/Cadena-iOS/index.html)**: Presenta el propósito del proyecto y da la bienvenida a los usuarios.
+- **[Aplicaciones](https://mauriciocelesta.github.io/Cadena-iOS/aplicaciones.html)**: Lista aplicaciones accesibles, como Voice Dream Reader, Seeing AI y Clubhouse, con detalles y enlaces a la App Store.
+- **[Juegos](https://mauriciocelesta.github.io/Cadena-iOS/juegos.html)**: Incluye juegos compatibles con VoiceOver, como Space Wave Race, Tres en línea y Swordy Quest, con descripciones y precios.
+- **[Atajos](https://mauriciocelesta.github.io/Cadena-iOS/atajos.html)**: Detalla atajos de Siri, como "Traducir", con instrucciones para su uso.
+- **[Novedades](https://mauriciocelesta.github.io/Cadena-iOS/novedades.html)** en donde explica todos los cambios que se han implementado en el sitio web, desde su primera versión hasta la más actual, con enlaces a sus releases.
 
 ## Características
 - **Accesibilidad**: HTML semántico, atributos ARIA y un orden lógico de navegación para VoiceOver.
 - **Diseño visual**: Fuente legible, alto contraste y espaciado amplio para usuarios con restos visuales.
 - **Navegación intuitiva**: Menú claro en todas las páginas.
-- **Contacto**: Enlaces a [Twitter](https://x.com/adlercelesta?s=11) y [GitHub](https://github.com/MauricioCelesta) para reportar errores o sugerir contenido.
+- **Contacto**: Enlaces a [X](https://x.com/adlercelesta?s=11) y [GitHub](https://github.com/MauricioCelesta) para reportar errores o sugerir contenido.
 
 ## Instrucciones de Uso
 1. Abre `index.html` en un navegador web para explorar el sitio.
@@ -26,4 +27,4 @@ El sitio está organizado en cuatro páginas:
 
 ## Instalación
 No se requieren dependencias.  
-[visita](https://mauriciocelesta.github.io/Cadena-iOS/index.html)
+[visítalo aquí](https://mauriciocelesta.github.io/Cadena-iOS/index.html)
